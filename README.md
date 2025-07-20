@@ -1,8 +1,3 @@
-Tentu, saya akan bantu buatkan *script* `README.md` berdasarkan narasi yang kamu berikan, lengkap dengan saran untuk folder `screenshots/`.
-
------
-
-````markdown
 # 🛡️ Amankan Data Karyawan dan Gaji – Laravel 12
 
 Repositori ini berisi proyek akhir dengan tema **"Amankan Data Karyawan dan Gaji"**, yang dibangun menggunakan *framework* Laravel 12. Aplikasi ini bertujuan untuk mencatat, mengelola, dan mengamankan data karyawan serta informasi gaji melalui sistem yang terautentikasi dan terproteksi.
@@ -113,17 +108,3 @@ Aplikasi ini mengimplementasikan beberapa mekanisme keamanan penting:
 ## 📝 Lisensi
 
 Proyek ini bersifat *open-source* dan bebas digunakan untuk keperluan pembelajaran.
-
------
-
-```
-
----
-
-**Saran Tambahan:**
-
-* **Folder `screenshots/`**: Ya, sangat disarankan untuk membuat folder `screenshots/` di *root* proyek Anda dan meletakkan semua gambar *screenshot* di sana. Kemudian, ganti `username` di bagian `Cara Menjalankan Proyek` dan `Developer` dengan *username* GitHub Anda yang sebenarnya.
-* **Ganti Placeholder**: Pastikan untuk mengganti `https://github.com/username/data-karyawan-gaji.git` dengan *URL* repositori Anda yang sebenarnya dan `https://github.com/username` dengan tautan profil GitHub Alfianita Ingsiany.
-
-Apakah ada bagian lain yang ingin Anda sesuaikan atau tambahkan?
-```
