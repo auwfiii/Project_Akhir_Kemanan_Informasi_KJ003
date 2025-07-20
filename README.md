@@ -39,7 +39,8 @@ cd Project_Akhir_Kemanan_Informasi_KJ003
 
 ```bash
 composer install
-npm install && npm run dev
+npm install
+npm run dev
 ```
 
 ### 3\. Atur environment
