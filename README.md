@@ -101,7 +101,7 @@ Aplikasi ini mengimplementasikan beberapa mekanisme keamanan penting:
 
 ## 👤 Developer
 
-**Alfianita Ingsiany** – [GitHub Profile](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/username) *(Ganti 'username' dengan username GitHub Anda)*
+**Alfianita Ingsiany** – [GitHub Profile](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/auwfiii)
 
 -----
 
