@@ -94,11 +94,11 @@ Aplikasi ini mengimplementasikan beberapa mekanisme keamanan penting:
 
 
   * **Dashboard**
-  * ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/dashboard.png?raw=true)
+    ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/dashboard.png?raw=true)
   * **Form Karyawan**
-  * ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/karyawan.png?raw=true)
+    ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/karyawan.png?raw=true)
   * **Form Gaji**
-  * ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/gaji.png?raw=true)
+    ![alt text](https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003/blob/main/Screenshoot/gaji.png?raw=true)
 
 -----
 
