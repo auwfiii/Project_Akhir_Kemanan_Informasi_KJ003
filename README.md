@@ -91,14 +91,13 @@ Aplikasi ini mengimplementasikan beberapa mekanisme keamanan penting:
 
 ## 📷 Tampilan
 
-(Anda bisa menambahkan *screenshot* di sini. Disarankan untuk membuat folder `screenshots/` dan meletakkan gambar di sana, lalu tautkan seperti contoh di bawah.)
 
   * **Dashboard**
-  * ![Tampilan Dashboard Aplikasi](screenshots/dashboard.png)
+  * ![Tampilan Dashboard Aplikasi](Screenshots/dashboard.png)
   * **Form Karyawan**
-  * ![Tampilan Dashboard Aplikasi](screenshots/karyawan.png)
+  * ![Tampilan Dashboard Aplikasi](Screenshots/karyawan.png)
   * **Form Gaji**
-  * ![Tampilan Dashboard Aplikasi](screenshots/gaji.png)
+  * ![Tampilan Dashboard Aplikasi](Screenshots/gaji.png)
 
 -----
 
