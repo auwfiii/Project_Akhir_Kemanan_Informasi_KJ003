@@ -31,8 +31,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 ### 1. Clone repositori
 
 ```bash
-git clone [https://github.com/username/data-karyawan-gaji.git](https://github.com/username/data-karyawan-gaji.git)
-cd data-karyawan-gaji
+git clone https://github.com/auwfiii/Project_Akhir_Kemanan_Informasi_KJ003.git
+cd Project_Akhir_Kemanan_Informasi_KJ003
 ````
 
 ### 2\. Install dependensi
